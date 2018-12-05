@@ -1,9 +1,8 @@
 {
   "name": "swaggerize-express-upd",
-  "version": "4.0.7",
+  "version": "4.0.10",
   "author": "Amunhoz forked from Trevor Livingston <trlivingston@paypal.com>",
-  "contributors": [
-  ],
+  "contributors": [],
   "description": "Design-driven apis with swagger 2.0 and express.",
   "keywords": [
     "swagger",
@@ -36,7 +35,7 @@
     "hoek": "^6.1.2",
     "js-yaml": "^3.2.6",
     "path-to-regexp": "^1.2.1",
-    "swaggerize-routes-upd": "^1.0.13"
+    "swaggerize-routes-upd": "^1.0.16"
   },
   "peerDependencies": {
     "express": "^4.0.0"
